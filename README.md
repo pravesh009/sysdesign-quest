@@ -8,6 +8,8 @@ It's a **single self-contained HTML file**. No build step, no dependencies, no b
 
 ## Quick start
 
+Direct GitHub pages: https://pravesh009.github.io/sysdesign-quest/
+
 **Try it locally** - download `index.html` and double-click it. That's the whole setup.
 
 **Host it on GitHub Pages:**
